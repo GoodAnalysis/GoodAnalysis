@@ -28,4 +28,4 @@ My work combines commercial analysis with product design to help organisations s
 ### 🌐 Contact  
 - [LinkedIn](https://www.linkedin.com/in/kylemonk)  
 - [Good Analysis](https://goodanalysis.co.uk)  
-- [Institute of Commerce](https://instituteofcommerce.co.uk)
+- [Institute of Commerce](https://instituteofcommerce.org)
