@@ -1,7 +1,7 @@
 ## Hi there, 
 I’m **Kyle Monk**, a strategist, analyst, and developer building systems that link insight, strategy, and technology.  
 
-Through **[Good Analysis](https://goodanalysis.co.uk)**, I design and build end-to-end solutions that help organisations understand markets, engage audiences, and operate more efficiently — from commerce ecosystems to non-profit platforms.  
+Through **[Good Analysis](https://goodanalysis.co.uk)**, I design and build end-to-end solutions that help organisations understand markets, engage audiences, and operate more efficiently — from commerce ecosystems to non-profit platforms...
 
 ---
 
