@@ -1,31 +1,33 @@
-## Hi there, 
-I’m **Kyle Monk**, a strategist, analyst, and developer building systems that link insight, strategy, and technology.  
+## Hi there  
+I’m **Kyle Monk**, a technology and product delivery director building data platforms, AI-driven insight tools, and integrated SaaS systems. My work sits at the intersection of **engineering**, **product**, and **market intelligence**, turning complex data into scalable products for enterprise and non-profit organisations.
 
-Through **[Good Analysis](https://goodanalysis.co.uk)**, I design and build end-to-end solutions that help organisations understand markets, engage audiences, and operate more efficiently — from commerce ecosystems to non-profit platforms...
-
----
-
-### 🌐 What I’m working on  
-- **[Institute of Commerce](https://instituteofcommerce.org)**: relaunching the UK’s professional body for commerce with an integrated platform for membership, intelligence, training, and careers.  
-- **[Good Analysis](https://goodanalysis.co.uk)**: developing modular data and content pipelines that power insight tools, dashboards, and publishing systems.  
-- **Non-profit technology**:creating affordable, all-in-one platforms combining websites, CRMs, and analytics for small organisations.  
+Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure using Python, SQL, Next.js, Supabase, and cloud-native workflows.
 
 ---
 
-### 🌐 What I work with  
-- **Languages:** TypeScript, Python, SQL, Markdown  
-- **Frameworks:** Next.js, React, Supabase, Node, Vercel, Railway  
-- **Focus:** analytics, data pipelines, automation, membership systems, AI-assisted insight  
+### 🔧 What I’m working on  
+- **Institute of Commerce** — a full-stack membership and intelligence platform covering learning, CPD, careers, news, and supplier tools.  
+- **Good Analysis pipelines** — Market intelligence using modular data ingestion, content processing, and analytics systems powering dashboards and automated insight products.  
+- **AI-enabled insight platform** — Combining vector search, Python automation, and cloud deployment to give a client real-time intelligence.
 
 ---
 
-### 🌐 What drives me  
-I believe insight should drive action, not sit buried in reports.  
-My work combines commercial analysis with product design to help organisations see clearly, decide faster, and act with confidence.  
+### 🛠️ What I work with  
+- **Languages:** TypeScript, Python, SQL  
+- **Frameworks:** Next.js, React, Supabase, Node  
+- **Infrastructure:** Vercel, Railway, AWS, Postgres  
+- **Focus areas:** data engineering, system integration, AI-assisted analysis, membership systems, SaaS and BI product delivery
 
 ---
 
-### 🌐 Contact  
+### 🎯 How I work  
+I build systems from strategy to execution.  
+Clean architecture, clear data flows, reliable automation, and products that scale.  
+My background in insight and product strategy lets me bridge commercial and technical teams to deliver solutions that work in the real world.
+
+---
+
+### 📬 Contact  
 - [LinkedIn](https://www.linkedin.com/in/kylemonk)  
 - [Good Analysis](https://goodanalysis.co.uk)  
 - [Institute of Commerce](https://instituteofcommerce.org)
