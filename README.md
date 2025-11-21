@@ -13,7 +13,7 @@ Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and de
 ---
 
 ### 🛠️ What I work with  
-- **Languages:** TypeScript, Python, SQL  
+- **Languages:** TypeScript, Python, R, SQL  
 - **Frameworks:** Next.js, React, Supabase, Node  
 - **Infrastructure:** Vercel, Railway, AWS, Postgres  
 - **Focus areas:** data engineering, system integration, AI-assisted analysis, membership systems, SaaS and BI product delivery
@@ -21,8 +21,8 @@ Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and de
 ---
 
 ### 🎯 How I work  
-I build systems from strategy to execution.  
-Clean architecture, clear data flows, reliable automation, and products that scale.  
+I learned to code later in life, have moved from research through to strategy and now can execute.
+I like building cool things. Clean architecture, clear data flows, reliable automation, and products that scale.  
 My background in insight and product strategy lets me bridge commercial and technical teams to deliver solutions that work in the real world.
 
 ---
