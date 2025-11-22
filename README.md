@@ -1,7 +1,7 @@
 ## Hi there  
-I’m **Kyle Monk**, a technology, insight and product delivery director building data platforms, AI-driven insight tools, and integrated SaaS systems. My work tends to blend **engineering**, **product**, and **market intelligence**, turning complex data into scalable products, or building intelligence principles into 'dumb products, predominantly for enterprise and non-profit organisations.
+I’m **Kyle Monk**, a technology, insight and product delivery director building data platforms, AI-driven insight tools, and integrated SaaS systems. My work tends to blend **engineering**, **product**, and **market intelligence**, turning complex data into scalable products, or building intelligence or data viz principles into 'dumb' products, predominantly for enterprise and non-profit organisations.
 
-Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure. I do so mostly with Python, SQL, Next.js, Supabase, and cloud-native workflows.
+Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure. I do so mostly with Python, SQL, Next.js, and cloud-native workflows.
 
 ---
 
@@ -21,11 +21,12 @@ Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and de
 ---
 
 ### 🎯 How I work  
-I learned to code later in life, have moved from research through to strategy and now execution. 
-I use Linear to organise my life and work.
-I like building cool things. 
-Clean architecture, clear data flows, reliable automation, and products that scale.  
-I have worn many hats, and am often hired as the bridge between commercial and technical teams.
+- Learned to code later in my career, have moved from research through to strategy and now do those two + product.
+- If I can get excited about a project, i'll deliver wonderful things.
+- Clean architecture, clear data flows, reliable automation, and products that scale.  
+- I have worn many hats, and am often hired as the bridge between commercial and technical teams.
+- Linear to organise my life and work. Nothing better for PM.
+- Github for version control of all my projects on private repos.
 
 ---
 
