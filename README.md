@@ -1,7 +1,7 @@
 ## Hi there  
 I’m **Kyle Monk**, a technology, insight and product delivery director building data platforms, AI-driven insight tools, and integrated SaaS systems. My work tends to blend **engineering**, **product**, and **market intelligence**, turning complex data into scalable products, or building intelligence principles into 'dumb products, predominantly for enterprise and non-profit organisations.
 
-Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure. I do so mostly with Python, SQL, Next.js, Supabase, and cloud-native workflows.
+Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure. I do so mostly with Python, SQL, Next.js, and cloud-native workflows.
 
 ---
 
