@@ -8,4 +8,4 @@ Currently building the **[Institute of Commerce](https://instituteofcommerce.org
 
 I came to code late, after a career in research and strategy, which is a polite way of saying I work out why a thing should exist before I work out how to build it. Clean architecture, clear data flows, automate everything.
 
-[LinkedIn](https://www.linkedin.com/in/kylemonk) · [Good Analysis](https://goodanalysis.co.uk) · [Institute of Commerce](https://instituteofcommerce.org) [https://monk.me]
+[LinkedIn](https://www.linkedin.com/in/kylemonk) · [Good Analysis](https://goodanalysis.co.uk) · [Institute of Commerce](https://instituteofcommerce.org)  · [https://monk.me)
