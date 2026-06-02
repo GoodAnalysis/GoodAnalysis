@@ -1,35 +1,11 @@
-## Hi there  
-I’m **Kyle Monk**, a technology, insight and product delivery director building data platforms, AI-driven insight tools, and integrated SaaS systems. My work tends to blend **engineering**, **product**, and **market intelligence**, turning complex data into scalable products, or building intelligence principles into 'dumb products, predominantly for enterprise and non-profit organisations.
+I turn business questions into software, and the messy data underneath into things people can use. Most of what I build runs on Python, SQL and Next.js.
 
-Through **[Good Analysis](https://goodanalysis.co.uk)**, I design, build, and deploy modern software and data infrastructure. I do so mostly with Python, SQL, Next.js, and cloud-native workflows.
+Through **[Good Analysis](https://goodanalysis.co.uk)** I design and ship data infrastructure and AI insight tools, mostly for enterprise and non-profit clients who need the commercial and the technical to speak the same language. That translation tends to be the job.
 
----
+Currently building the **[Institute of Commerce](https://instituteofcommerce.org)**: a full-stack membership and intelligence platform covering learning, CPD, careers, news and supplier tools.
 
-### 🔧 What I’m working on  
-- **Institute of Commerce** — a full-stack membership and intelligence platform covering learning, CPD, careers, news, and supplier tools.  
-- **Good Analysis pipelines** — Market intelligence using modular data ingestion, content processing, and analytics systems powering dashboards and automated insight products.  
-- **AI-enabled insight platform** — Combining vector search, Python automation, and cloud deployment to give a client real-time intelligence.
+**Stack:** TypeScript, Python, R, SQL · Next.js, React, Node, Supabase · Vercel, Railway, AWS, Postgres. Organised in Linear.
 
----
+I came to code late, after a career in research and strategy, which is a polite way of saying I work out why a thing should exist before I work out how to build it. Clean architecture, clear data flows, automate everything.
 
-### 🛠️ What I work with  
-- **Languages:** TypeScript, Python, R, SQL  
-- **Frameworks:** Next.js, React, Supabase, Node  
-- **Infrastructure:** Vercel, Railway, AWS, Postgres  
-- **Focus areas:** data engineering, system integration, AI-assisted analysis, membership systems, SaaS and BI product delivery
-
----
-
-### 🎯 How I work  
-I learned to code later in life, have moved from research through to strategy and now execution. 
-I use Linear to organise my life and work.
-I like building cool things. 
-Clean architecture, clear data flows, reliable automation, and products that scale.  
-I have worn many hats, and am often hired as the bridge between commercial and technical teams.
-
----
-
-### 📬 Contact  
-- [LinkedIn](https://www.linkedin.com/in/kylemonk)  
-- [Good Analysis](https://goodanalysis.co.uk)  
-- [Institute of Commerce](https://instituteofcommerce.org)
+[LinkedIn](https://www.linkedin.com/in/kylemonk) · [Good Analysis](https://goodanalysis.co.uk) · [Institute of Commerce](https://instituteofcommerce.org) [https://monk.me]
